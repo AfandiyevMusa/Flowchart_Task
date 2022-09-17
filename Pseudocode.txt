@@ -1,0 +1,7 @@
+int m
+    m == 0
+       print (neither odd nor even)
+    else m % 2 == 0
+       print "m is even number"
+    else 
+       print "m is odd number"
